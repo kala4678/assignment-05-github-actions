@@ -1,9 +1,6 @@
-import os
-
-
 def main():
-    unused_number = 42
-    print(missing_message)
+    message = "Hello from assignment-05!"
+    print(message)
 
 
 if __name__ == "__main__":
